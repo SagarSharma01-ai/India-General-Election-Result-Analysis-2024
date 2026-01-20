@@ -70,6 +70,4 @@ The General Election 2024 was the world's largest democratic exercise. This proj
 
 ### 📩 Contact
 
-![LinkedinLinkedinApplyGIF](https://github.com/user-attachments/assets/c1554b29-2eda-432d-9d1f-bfd56895e6c5)
-
-[Link to your LinkedIn Profile](https://www.linkedin.com/in/sagar-sharma-712ba4324/)
+[![LinkedinLinkedinApplyGIF](https://github.com/user-attachments/assets/c1554b29-2eda-432d-9d1f-bfd56895e6c5)](https://www.linkedin.com/in/sagar-sharma-712ba4324/)
